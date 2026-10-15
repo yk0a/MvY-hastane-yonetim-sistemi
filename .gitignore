@@ -1,0 +1,11 @@
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.pdb
+*.exe
+*.msi
+*.mdf
+*.ldf
+UpgradeLog*.htm
